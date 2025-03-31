@@ -8,4 +8,4 @@ Integrate the OpenAI API: Utilize the OpenAI API to analyze the submitted Python
 
 Display results: Present the analysis results, including any identified bugs or errors, along with the fixed code snippets, to the user in a clear and intuitive manner
 
- You'll need to replace "your_openai_api_key.txt" with the path to your OpenAI API key file and adjust the API calls according to the OpenAI API documentation.
+You'll need to replace "your_openai_api_key.txt" with the path to your OpenAI API key file and adjust the API calls according to the OpenAI API documentation.
